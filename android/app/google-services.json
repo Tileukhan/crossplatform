@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376413642316",
+    "project_id": "adoption-a41fe",
+    "storage_bucket": "adoption-a41fe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376413642316:android:0fea3401a9e8b1ea80dee9",
+        "android_client_info": {
+          "package_name": "com.example.finalversionn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj_3ecWguuRvaSjYwEN-qzhWh5X9Y0T1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
